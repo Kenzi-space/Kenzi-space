@@ -1,8 +1,6 @@
 ### Hello Word My name is **Kenzi**👋
 
 
-[![Discord](https://discord.c99.nl/widget/theme-1/552492140270452736.png)](https://discord.com/users/552492140270452736)
-
 > Here Some QnA
 - 🔭 I’m currently working on Suneo developer bot discord
 - 🌱 I’m currently learning English and Indonesian Language
