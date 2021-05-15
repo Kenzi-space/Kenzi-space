@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hello Word My name is **Kenzi**👋
 
 
 [![Discord](https://discord.c99.nl/widget/theme-1/552492140270452736.png)](https://discord.com/users/552492140270452736)
 
-
-### 🌸 My name is **Kenzi** 
 > Here Some QnA
 - 🔭 I’m currently working on Suneo developer bot discord
 - 🌱 I’m currently learning English and Indonesian Language
@@ -21,3 +19,5 @@
 <p align="left">- ⚙️ &nbsp;
 <code align="left"><img height="20" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"></code>
 <code align="left"><img height="20" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /></code>
+<code align="left"><img height="20" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></code>
+</p>
