@@ -18,5 +18,5 @@
 
 ## 🌸 My Github Stats
 
-![a](https://github-readme-stats.vercel.app/api?username=Joovzx&show_icons=true&theme=yeblu)
-![b](https://github-readme-stats.vercel.app/api/top-langs/?username=Joovzx&layout=compact&show_icons=true&theme=yeblu)
+![a](https://github-readme-stats.vercel.app/api?username=Kenzi-space&show_icons=true&theme=yeblu)
+![b](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzi-space&layout=compact&show_icons=true&theme=yeblu)
