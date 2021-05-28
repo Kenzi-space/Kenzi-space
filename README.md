@@ -4,7 +4,7 @@
 ## My name is **Kenzi**
 
 > Here Some QnA
-- 🔭 I’m currently working on Jihyo Twice developer bot discord
+- 🔭 I’m currently working on [Jihyo Twice](https://discord.com/api/oauth2/authorize?client_id=787548165179047937&permissions=8&scope=bot) developer bot discord
 - 🌱 I’m currently learning English and Indonesian Language
 - 🤔 I’m looking for help with my friend
 - 💬 Ask me about my bot lol
